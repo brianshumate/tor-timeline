@@ -13,7 +13,7 @@ Name: JD Hancock for: https://www.flickr.com/photos/jdhancock/9004372146
 Name: WikiMedia Commons for: https://commons.wikimedia.org/wiki/File:Software_Engineering_Institute.jpg
 
 /* SITE */
-Last update: 2016-01-03T19:48:10
+Last update: 2016-01-04T07:44:21
 Standards: HTML5, CSS3, JS
 Components: jQuery, Zurb Foundation
 Software: Metalsmith, ImageMagick, Pixelmator, Sublime Text 3
