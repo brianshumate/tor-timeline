@@ -1,2 +1,4 @@
-# tor-timeline
+# Tor Timeline
+
 Timeline of Tor activities and events
+
